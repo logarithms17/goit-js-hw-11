@@ -131,3 +131,4 @@ function handleScroll() {  //function when scrolling
 }
 searchFormEl.addEventListener('submit', handleSubmit); //event listener to activate the submit
 window.addEventListener('scroll', handleScroll); //event listener every scroll you do
+
